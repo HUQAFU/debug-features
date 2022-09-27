@@ -4,7 +4,7 @@ using UnityEngine;
 using System;
 
 //Holds all debug states
-//Add this objects to first scene
+//Add this sctipt to any GameObject in main scene
 public class DebugManager : SingletonMB<DebugManager>
 {
     readonly Dictionary<string, bool> _debugKeys = new();
