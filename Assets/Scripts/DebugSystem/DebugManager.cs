@@ -11,8 +11,10 @@ public class DebugManager : SingletonMB<DebugManager>
     public event Action<string, bool> OnDebugKeyChanged;
     bool _showDebug;
     
+    //visualize debug parameters
     void OnGUI()
     {
+        //can be used custom GUIStyle
         var height = 20;
         var yOffset = Screen.height - height;
         _showDebug = GUI.Toggle(new Rect(50, yOffset - height, 150, height), _showDebug, "Show debug features");
