@@ -2,6 +2,7 @@
 It's a system that allows enable/disable some of test features/gameObjects during playtesting or ab testing
 
 Add to some of gameObject in your main scene script DebugManager. It's allows you to controll state of your feature during gameplay
+
 ![image](https://user-images.githubusercontent.com/17470634/192493188-4f7c887b-273f-4d80-ada1-7ce1c4883c99.png)
 
 You can check how it works in DemoScene
