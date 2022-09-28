@@ -3,7 +3,7 @@ It's a system that allows enable/disable some of test features/gameObjects durin
 
 Add to some of gameObject in your main scene script DebugManager. It's allows you to controll state of your feature during gameplay
 
-![image](https://user-images.githubusercontent.com/17470634/192493188-4f7c887b-273f-4d80-ada1-7ce1c4883c99.png)
+![ezgif-4-16b7bd049d](https://user-images.githubusercontent.com/17470634/192809006-27a519fa-0450-4b7a-bd8f-307d66e08641.gif)
 
 You can check how it works in DemoScene
 
