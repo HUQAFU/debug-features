@@ -1,5 +1,5 @@
-# debug-features
-It's a system that allows enable/disable some of test features/gameObjects during playtesting or ab testing
+# Unity debug mode
+It's a system that allows enable/disable some of test features/gameObjects during playtesting or ab testing Unity projects
 
 Add to some of gameObject in your main scene script DebugManager. It's allows you to controll state of your feature during gameplay
 
